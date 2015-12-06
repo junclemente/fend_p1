@@ -1,0 +1,33 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #333;
+  font-weight: 300;
+}
+
+hr {
+  border: none;
+  height: 4px;
+}
+
+/*header {
+  background-color: blue;
+}*/
+
+.text-muted {
+  color: #BCBBBB;
+}
+.text-thin {
+  /*font-weight: 100;*/
+}
+.title-super {
+  font-family: 'Permanent Marker', serif;
+  font-size: 60px;
+}
+.title-logo {
+  max-height: 120px;
+  margin-top: 20px;
+}
+
+.center-photo {
+  max-height: 300px;
+}
